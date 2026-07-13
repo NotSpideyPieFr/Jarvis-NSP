@@ -1,4 +1,4 @@
-# 🤖 JARVIS-NSP: MARK XXXIX
+#  JARVIS-NSP: MARK XXXIX
 
 > **The Ultimate Cross-Platform Desktop AI Assistant**  
 > *Engineered for autonomous desktop control, real-time voice interaction, and intelligent task automation.*
