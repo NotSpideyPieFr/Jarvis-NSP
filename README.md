@@ -5,6 +5,26 @@
 
 ---
 
+## 🏆 Status & Support
+
+<div align="center">
+
+![Python Version](https://img.shields.io/badge/Python-3.11%20%7C%203.12-blue?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-purple?style=flat-square)
+
+![PyQt6](https://img.shields.io/badge/UI%20Framework-PyQt6-orange?style=flat-square)
+![Gemini API](https://img.shields.io/badge/AI%20Model-Google%20Gemini%202.5-red?style=flat-square)
+![Code Quality](https://img.shields.io/badge/Code%20Style-Professional-blue?style=flat-square)
+
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-July%202026-blue?style=flat-square)
+
+</div>
+
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
